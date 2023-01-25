@@ -4,7 +4,7 @@ theme: just-the-docs
 
 url: "https://tbc2.bluewarn.dev"
 logo: "https://cdn.jsdelivr.net/gh/Deepbluewarn/twitch_badge_collector_web@fcdcd297de5497c3adfad05d0115f41976d12728/src/public/logo/TBC%20400.png"
-
+favicon_ico: "https://cdn.jsdelivr.net/gh/Deepbluewarn/twitch_badge_collector_web@fcdcd297de5497c3adfad05d0115f41976d12728/src/public/favicon/favicon_ico"
 callouts:
   warning:
     title: 경고
