@@ -1,7 +1,7 @@
 ---
 title: 기타
 layout: default
-parent: filter
+parent: 필터
 nav_order: 3
 ---
 
