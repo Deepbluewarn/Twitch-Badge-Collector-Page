@@ -8,4 +8,4 @@ permalink: docs/extensionsetting
 
 # 설정
 
-확장 프로그램 설정과 관련된 설명입니다.
+확장 프로그램 설정에 대해 설명합니다.
