@@ -2,6 +2,7 @@
 title: 트위치 UI 복사
 layout: default
 parent: 복사 채팅 표시 방법
+grand_parent: 설정
 ---
 
 # 트위치 UI 복사
