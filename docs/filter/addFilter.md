@@ -1,7 +1,7 @@
 ---
 title: 필터 추가
 layout: default
-parent: filter
+parent: 필터
 nav_order: 1
 ---
 
