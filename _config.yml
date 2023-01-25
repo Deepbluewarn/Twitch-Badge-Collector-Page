@@ -2,6 +2,7 @@ title: TBC V2 Docs
 description: Documentation for Twitch Badge Collector V2
 theme: just-the-docs
 
+base_url: /ko
 url: https://deepbluewarn.github.io
 
 aux_links:
