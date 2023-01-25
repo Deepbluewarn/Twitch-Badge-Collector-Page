@@ -1,6 +1,8 @@
 ---
 title: 기타
 layout: default
+parent: filter
+nav_order: 3
 ---
 
 ### 필터 조건 변경
