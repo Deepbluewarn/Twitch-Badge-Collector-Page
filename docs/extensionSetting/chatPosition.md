@@ -1,6 +1,7 @@
 ---
 title: 채팅 위치
 layout: default
+parent: 설정
 ---
 
 # 채팅 위치
