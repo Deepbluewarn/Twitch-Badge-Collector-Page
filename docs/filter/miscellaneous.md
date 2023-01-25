@@ -2,7 +2,7 @@
 title: 기타
 layout: default
 parent: 필터
-nav_order: 3
+nav_order: 2
 ---
 
 ### 필터 조건 변경
