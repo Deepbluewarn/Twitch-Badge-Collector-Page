@@ -2,6 +2,7 @@
 title: 채팅 클라리언트
 layout: default
 parent: 복사 채팅 표시 방법
+grand_parent: 설정
 ---
 
 # 채팅 클라이언트
