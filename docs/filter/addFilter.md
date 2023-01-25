@@ -1,6 +1,8 @@
 ---
 title: 필터 추가
 layout: default
+parent: 1
+nav_order: 1
 ---
 
 ### 필터 추가
