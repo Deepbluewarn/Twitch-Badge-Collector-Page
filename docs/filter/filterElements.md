@@ -1,7 +1,7 @@
 ---
 title: 필터 요소
 layout: default
-parent: filter
+parent: 필터
 nav_order: 2
 ---
 
