@@ -1,6 +1,8 @@
 ---
 title: 이미지로 저장
 layout: default
+parent: chatsave
+order: 1
 ---
 
 ### 채팅을 이미지로 저장
