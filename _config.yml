@@ -9,6 +9,7 @@ callouts:
   warning:
     title: 경고
     color: red
+color_scheme: dark
 
 aux_links:
   Discord: https://discord.gg/ZM6Eazpz5V
