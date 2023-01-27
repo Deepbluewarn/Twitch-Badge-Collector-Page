@@ -11,6 +11,15 @@ callouts:
     color: red
 color_scheme: dark
 
+collections:
+  tests:
+    permalink: "/:collection/:path/"
+    output: true
+just_the_docs:
+  collections:
+    tests:
+      name: Tests
+
 aux_links:
   Discord: https://discord.gg/ZM6Eazpz5V
   Github: https://github.com/Deepbluewarn/twitch-badge-collector-v2
